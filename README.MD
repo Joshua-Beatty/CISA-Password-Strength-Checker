@@ -1,5 +1,5 @@
 # CISA Password Strength Checker
-Verify that your password meets the american [Cybersecurity and Infrastructure Security Agency criteria](https://www.cisa.gov/secure-our-world/require-strong-passwords) for a secure password.
+Verify that your password meets the American [Cybersecurity and Infrastructure Security Agency criteria](https://www.cisa.gov/secure-our-world/require-strong-passwords) for a secure password.
 
 ![Example image](./example.png)
 
